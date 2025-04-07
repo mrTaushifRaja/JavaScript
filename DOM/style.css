@@ -1,0 +1,14 @@
+#heading{   /* this is a id selector*/
+  color:blue;
+  background-color:purple;
+}
+.heading2{   /* this is a class of the css*/
+  color:red;
+}
+button{   /*Element Selector*/
+  color:white;
+  background-color:blue;
+}
+body{
+  background-color:yellow;
+}
